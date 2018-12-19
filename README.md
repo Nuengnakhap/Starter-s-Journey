@@ -3,6 +3,7 @@
 
 ## How To Play
 ![alt text](/img/HTP.png)
+### when you see this picture in game please type "Enter" key. 
 - "Z" -> Attack by Sword when player have sword.
 - "X" -> Attack by Enegy when player have sword and collect 3 mana bottle.
 - "C" -> Attack by Hand when player don't have sword.
